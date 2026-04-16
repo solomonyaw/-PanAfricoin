@@ -3,6 +3,8 @@ Africa's decentralized cryptocurrency
 
 # 🌍 PanAfricoin (PAC)
 
+
+
 ### A Unified Digital Settlement Layer for African Trade
 
 > Open-source blockchain + fintech infrastructure designed to connect African economies through a seamless, low-cost, and interoperable payment system powered by blockchain and mobile money integration.
