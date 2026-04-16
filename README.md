@@ -9,6 +9,26 @@ Africa's decentralized cryptocurrency
 
 > Open-source blockchain + fintech infrastructure designed to connect African economies through a seamless, low-cost, and interoperable payment system powered by blockchain and mobile money integration.
 
+<h2>👥 Originators</h2>
+
+<p>Below are the originators of this project:</p>
+
+<ul>
+  <li>
+    <strong>Solomon Yaw Adeklo</strong><br>
+    <a href="https://github.com/solomonyaw" target="_blank">
+      https://github.com/solomonyaw
+    </a>
+  </li>
+  <br>
+  <li>
+    <strong>Emmanuel Ekpe</strong><br>
+    <a href="https://github.com/Elexy101" target="_blank">
+      https://github.com/Elexy101
+    </a>
+  </li>
+</ul>
+
 ---
 
 <img src="./pan3.png" width="400px" height="400px">
