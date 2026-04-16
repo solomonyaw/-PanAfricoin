@@ -3,13 +3,15 @@ Africa's decentralized cryptocurrency
 
 # 🌍 PanAfricoin (PAC)
 
-
+<img src="./logo.png" width="400px" height="400px">
 
 ### A Unified Digital Settlement Layer for African Trade
 
 > Open-source blockchain + fintech infrastructure designed to connect African economies through a seamless, low-cost, and interoperable payment system powered by blockchain and mobile money integration.
 
 ---
+
+<img src="./pan3.png" width="400px" height="400px">
 
 ## 🚀 Live Prototype
 
@@ -44,6 +46,7 @@ This means:
 ---
 
 ## ⚙️ What PanAfricoin Is
+<img src="./pan2.png" width="400px" height="400px">
 
 PanAfricoin is:
 
@@ -58,6 +61,7 @@ It is not just a token—it is a **financial settlement layer for Africa**.
 ---
 
 ## 🧠 Core Innovation: Middleware Layer
+<img src="./pan1.png" width="400px" height="400px">
 
 The key breakthrough of PanAfricoin is its **middleware system**, which connects blockchain to real-world financial infrastructure.
 
